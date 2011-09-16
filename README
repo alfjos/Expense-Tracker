@@ -1,6 +1,4 @@
-/* AUG 01, 2011*/
-I'm making an expense tracker right now because I started to work and I need to know where is all my money going.
+/* SEP 15, 2011*/
 
-I'm not thinking of anything fancy, just a desktop application written en C#. Maybe afterwards I could make something syncronized between the devices I use so I can insert new expenses on the fly.
-
-Mostly I'm doing this as a learning experience.
+We're making an expense tracker as we want to learn how to use Ruby On Rails. 
+We want to start small, but keep growing until a mature webapp is developed.
